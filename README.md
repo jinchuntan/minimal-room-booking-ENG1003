@@ -1,5 +1,22 @@
+# Simple Room Booking Website
 
-End with an example of getting some data out of the system or using it for a little demo.
+This project is a simple room booking web application that allows users to book rooms for specific time slots. Ideal for small businesses or campus room management, it provides a clear view of room availability and an easy booking interface.
+
+## Features
+
+- View available time slots for room booking.
+- Book a room for a specific time slot.
+- Display booking reasons and custom text.
+- Clear all bookings with a single click.
+
+## Getting Started
+
+Go to this link: https://minimal-room-booking-eng-1003.vercel.app/
+
+### Prerequisites
+
+What things you need to install the software and how to install them.
+
 
 ## Usage
 
